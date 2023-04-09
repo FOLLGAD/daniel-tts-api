@@ -1,6 +1,6 @@
 # daniel tts-server
 
-SSML Web API
+SSML Web API that can be run on a virtual server like EC2
 
 ## preqs
 
