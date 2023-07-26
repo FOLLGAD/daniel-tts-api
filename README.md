@@ -1,6 +1,6 @@
 # daniel tts-server
 
-SSML Web API that can be run on a virtual server like EC2
+SSML Web API that can be run on a Windows virtual server like EC2 and produces the [Daniel UK](https://www.youtube.com/watch?v=AW5EZbLzwnw) TTS voice.
 
 ## preqs
 
